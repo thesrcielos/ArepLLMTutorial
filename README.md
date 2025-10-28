@@ -45,6 +45,8 @@ Sigue estos pasos para configurar el proyecto:
 ```bash
 python -m venv .venv
 source .venv/bin/activate  # En Windows: .venv\Scripts\activate
+pip install jupyter ipykernel
+python -m ipykernel install --user --name ArepLLMTutorial
 ```
 
 3. **Configurar las variables de entorno**: 
