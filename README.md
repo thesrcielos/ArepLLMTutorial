@@ -69,4 +69,5 @@ Distintas Temperaturas
 Prompt simple con LangChain
 ![](assets/img2.png)
 Encadenar múltiples pasos
-![](assets/im3.png)
+
+![](assets/img3.png)
