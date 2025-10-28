@@ -63,3 +63,10 @@ Abre los archivos .ipynb en tu editor preferido (por ejemplo, Jupyter Notebook o
 
 Sigue las instrucciones dentro de cada notebook para explorar los ejemplos y realizar las prácticas.
 
+## Ejemplos Ejecuciones
+Distintas Temperaturas
+![](assets/img1.png)
+Prompt simple con LangChain
+![](assets/img2.png)
+Encadenar múltiples pasos
+![](assets/im3.png)
